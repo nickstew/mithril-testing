@@ -1,0 +1,25 @@
+{
+  "name": "mithril-testing",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickstew/mithril-testing.git"
+  },
+  "author": {
+    "name": "Nick Stewart",
+    "email": "nick.stewart.programmer@gmail.com",
+    "url": "http://nickstew.github.io/"
+  },
+  "contributors": [
+    {
+      "name": "Nick Stewart",
+      "email": "nick.stewart.programmer@gmail.com",
+      "url": "http://nickstew.github.io/"
+    }
+  ],
+  "engines": {
+    "nodejs": "0.12"
+  }
+}
